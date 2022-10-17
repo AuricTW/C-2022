@@ -1,1 +1,15 @@
+//基本架構
 
+System.Console.WriteLine("Hello world!");
+
+//常見資料型態&變數
+//字串 string
+//字元 char
+//整數 int
+//浮點數 double
+//布林值 bool (ture false)
+
+string name = "I love ";
+int year = 2022;
+System.Console.WriteLine("Hello world!");
+System.Console.WriteLine(name + year);
