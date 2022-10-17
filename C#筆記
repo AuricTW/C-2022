@@ -12,4 +12,4 @@ System.Console.WriteLine("Hello world!");
 string name = "I love ";
 int year = 2022;
 System.Console.WriteLine("Hello world!");
-System.Console.WriteLine(name + year);
+System.Console.WriteLine(name + year); //輸出 I love 2022
